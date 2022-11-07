@@ -5,7 +5,7 @@ This is the homework for the course [Deep Learning for Audio](https://github.com
   
 ## Results Representation
 
-To represent the results download `kws_results_representation.ipynb` and run all the cells one by one.
+To represent the results download `kws_results_representation.ipynb` and run all the cells one by one (preferably google colab).
 
 ## Results
 
