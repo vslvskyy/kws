@@ -10,7 +10,7 @@ To represent the results download `kws_results_representation.ipynb` and run all
 ## Results
 
 ### Streaming Model visualization
-Here is visualization of Sheila word probability for audio with `My friend's name is Sheila. She is very kind and beautiful` sentence.
+Here is visualization of Sheila word probability for audio with `My friend's name is Sheila. She is very kind and beautiful` text.
  
 ![image](https://user-images.githubusercontent.com/75453192/200270285-6fb41f0b-14dd-4178-8c5e-4a4b9a5f2143.png)
 
